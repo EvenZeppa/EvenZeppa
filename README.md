@@ -13,10 +13,10 @@
 
 ---
 
-## 👨‍💻 Developer Team - EnV  
-🎮 I am part of **Team EnV**, a development duo composed of **[Vincent](https://github.com/Corgidev42) & [Even](https://github.com/EvenZeppa)**.  
+## 👨‍💻 Developer Team - Eve
+🎮 I am part of **Team Eve**, a development duo composed of **[Vincent](https://github.com/Corgidev42) & [Even](https://github.com/EvenZeppa)**.  
 🚀 Together, we are working on **Snake**, a multiplayer game currently in development.  
-🔗 **Check out Vincent's GitHub**: [github.com/Corgidev42](https://github.com/Corgidev42)
+🔗 **Check out Eve's GitHub**: [github.com/eve-enterprise](https://github.com/eve-enterprise)
 
 ---
 
